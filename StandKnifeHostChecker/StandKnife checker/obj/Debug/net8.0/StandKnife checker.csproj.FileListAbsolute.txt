@@ -1,0 +1,17 @@
+C:\Users\W3dCloud\source\repos\StandKnife checker\StandKnife checker\bin\Debug\net8.0\StandKnife checker.exe
+C:\Users\W3dCloud\source\repos\StandKnife checker\StandKnife checker\bin\Debug\net8.0\StandKnife checker.deps.json
+C:\Users\W3dCloud\source\repos\StandKnife checker\StandKnife checker\bin\Debug\net8.0\StandKnife checker.runtimeconfig.json
+C:\Users\W3dCloud\source\repos\StandKnife checker\StandKnife checker\bin\Debug\net8.0\StandKnife checker.dll
+C:\Users\W3dCloud\source\repos\StandKnife checker\StandKnife checker\bin\Debug\net8.0\StandKnife checker.pdb
+C:\Users\W3dCloud\source\repos\StandKnife checker\StandKnife checker\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\W3dCloud\source\repos\StandKnife checker\StandKnife checker\obj\Debug\net8.0\StandKnife checker.csproj.AssemblyReference.cache
+C:\Users\W3dCloud\source\repos\StandKnife checker\StandKnife checker\obj\Debug\net8.0\StandKnife checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W3dCloud\source\repos\StandKnife checker\StandKnife checker\obj\Debug\net8.0\StandKnife checker.AssemblyInfoInputs.cache
+C:\Users\W3dCloud\source\repos\StandKnife checker\StandKnife checker\obj\Debug\net8.0\StandKnife checker.AssemblyInfo.cs
+C:\Users\W3dCloud\source\repos\StandKnife checker\StandKnife checker\obj\Debug\net8.0\StandKnife checker.csproj.CoreCompileInputs.cache
+C:\Users\W3dCloud\source\repos\StandKnife checker\StandKnife checker\obj\Debug\net8.0\StandKni.86EDC74E.Up2Date
+C:\Users\W3dCloud\source\repos\StandKnife checker\StandKnife checker\obj\Debug\net8.0\StandKnife checker.dll
+C:\Users\W3dCloud\source\repos\StandKnife checker\StandKnife checker\obj\Debug\net8.0\refint\StandKnife checker.dll
+C:\Users\W3dCloud\source\repos\StandKnife checker\StandKnife checker\obj\Debug\net8.0\StandKnife checker.pdb
+C:\Users\W3dCloud\source\repos\StandKnife checker\StandKnife checker\obj\Debug\net8.0\StandKnife checker.genruntimeconfig.cache
+C:\Users\W3dCloud\source\repos\StandKnife checker\StandKnife checker\obj\Debug\net8.0\ref\StandKnife checker.dll

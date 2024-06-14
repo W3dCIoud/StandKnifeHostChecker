@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StandKnife checker", "StandKnife checker\StandKnife checker.csproj", "{987D0322-483F-4591-8969-7E28FEDEB753}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{987D0322-483F-4591-8969-7E28FEDEB753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{987D0322-483F-4591-8969-7E28FEDEB753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{987D0322-483F-4591-8969-7E28FEDEB753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{987D0322-483F-4591-8969-7E28FEDEB753}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14062A9D-FA71-40DF-A946-3AA45DA3F605}
+	EndGlobalSection
+EndGlobal
