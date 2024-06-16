@@ -1,12 +1,12 @@
 # StandKnifeHostChecker
 
-Эта програма позволяет вам в фоновом режиме проверять хост [**StandKnife**](standknife.store) на онлайн/оффлайн.
+Эта програма позволяет вам в фоновом режиме проверять хост [**StandKnife**](https://standknife.store) на онлайн/оффлайн.
 
 Сделана с помощью ChatGPT и UptimeRobot API.
 
 - Как использовать?
 
-> - Регистрируйтесь на сайте [**UptimeRobot**](uptimerobot.com/signUp)
+> - Регистрируйтесь на сайте [**UptimeRobot**](https://uptimerobot.com/signUp)
 > - Заходите в старый UI.
 > - Наводитесь на свой аккаунт и нажимаете на "My Account".
 > - Листаете ниже и находите "Main API-Key".
