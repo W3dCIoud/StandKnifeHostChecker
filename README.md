@@ -13,5 +13,4 @@
 > 5. Делаете Discord Webhook.
 > 6. Скачивайте [**исходный код**](https://github.com/W3dCIoud/StandKnifeHostChecker/archive/refs/heads/main.zip) программы.
 > 7. Вместо "yourapikey" вставляете свой Main API ключ, а в "yourdiscordwebhook" вставляете дискорд вебхук.
-> 
 > Вы можете делать и свои мониторы, просто заменяя monitorUrl на свой.
