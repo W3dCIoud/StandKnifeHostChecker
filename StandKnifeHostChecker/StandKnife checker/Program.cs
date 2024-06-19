@@ -18,9 +18,11 @@ class Program
     {
         while (true)
         {
+            Console.Title = "StandKnife Host checker by w3dcloud | t.me/wonderknife";
+            Console.Write("sended!\n");
             var status = await CheckMonitorStatus();
             await SendLogToDiscord(status);
-            await Task.Delay(60000);
+            await Task.Delay(15000);
         }
     }
 
@@ -54,7 +56,7 @@ class Program
             string logResponseBody = await logResponse.Content.ReadAsStringAsync();
             var logJson = JsonConvert.DeserializeObject<UptimeRobotResponse>(logResponseBody);
             var monitorLog = Array.Find(logJson.Monitors, m => m.Id == monitor.Id);
-            reason = monitorLog.Logs.Length > 0 ? monitorLog.Logs[0].Reason.Detail : "Unknown reason";
+            reason = monitorLog.Logs.Length > 0 ? monitorLog.Logs[0].Reason.Detail : "wtfbro";
         }
 
         MonitorStatus status = new MonitorStatus
@@ -62,7 +64,7 @@ class Program
             Name = monitor.FriendlyName,
             Url = monitor.Url,
             IsOnline = monitor.Status == 2,
-            StatusText = monitor.Status == 2 ? "Online" : "Offline",
+            StatusText = monitor.Status == 2 ? "online" : "offline",
             Reason = reason,
             Color = monitor.Status == 2 ? 0x00FF00 : 0xFF0000
         };
@@ -79,7 +81,8 @@ class Program
             color = status.Color,
             fields = new[]
             {
-                new { name = "Reason:", value = status.Reason ?? "No details available", inline = false }
+                new { name = "Reason:", value = status.Reason ?? "?", inline = false },
+                new { name = "Powered by:", value = "https://t.me/wonderknife", inline = false }
             },
             timestamp = DateTime.UtcNow.ToString("o")
         };
