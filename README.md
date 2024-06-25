@@ -10,6 +10,7 @@
 > - Заходите в старый UI.
 > - Наводитесь на свой аккаунт и нажимаете на "My Account".
 > - Листаете ниже и находите "Main API-Key".
+> - Сделайте монитор на standknife.store.
 > - Делаете Discord Webhook.
 > - Скачивайте [**исходный код**](https://github.com/W3dCIoud/StandKnifeHostChecker/archive/refs/heads/main.zip) программы.
 > - Вместо "yourapikey" вставляете свой Main API ключ, а в "yourdiscordwebhook" вставляете дискорд вебхук.
